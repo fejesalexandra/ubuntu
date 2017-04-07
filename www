@@ -1,0 +1,4 @@
+sudo apt-get install apache2 --yes
+sudo apt-get install nmap --yes
+sudo apt-get install tcpdump --yes
+sudo apt-get install mc --yes
